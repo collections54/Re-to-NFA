@@ -9,4 +9,4 @@ nfa.o: nfa.c stack.h nfa.h
 stack.o: stack.c stack.h
 	gcc -g -c stack.c
 clean:
-	rm main.o evaluate.o nfa.o stack.o
+	rm main.o evaluate.o nfa.o stack.o re_to_nfa
