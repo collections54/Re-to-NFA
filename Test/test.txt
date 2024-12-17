@@ -1,0 +1,7 @@
+a
+a*
+ab|
+ab&
+aa&
+ad
+abb|&
