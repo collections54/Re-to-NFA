@@ -12,7 +12,7 @@ makefile - makefile for compiling code
 Compiler version: gcc (Ubuntu 13.2.0-23ubuntu4) 13.2.0
 To Compile:
 Run "make" command after extracting files.
-make -clean to remove -o files
+make -clean to remove -o files and executable
 
 To Run:
 run command  "./re_to_nfa file1" where file1 is the file containing RE strings 
